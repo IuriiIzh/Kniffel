@@ -1,0 +1,2 @@
+# Kniffel
+Play Kniffel game
